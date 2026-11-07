@@ -1,54 +1,21 @@
-                      Essential Mod TM
-             Source Available License Agreement
-              Last Updated: 22nd January 2025
+MIT License
 
-This license has been updated on 22nd January 2025 to allow 
-unmodified forks of the repository.
+Copyright (c) 2026 Essentials
 
-                            * * *
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-In the interest of transparency, ModCore Inc., doing business as
-Essential (“Essential”), is making available the code of its 
-Essential Mod TM modification to the Minecraft® game 
-(collectively with all updates there to and versions there of, the 
-“Mod”) solely to enable you to view, copy or fork 
-(without modification), and audit compiled binaries of the Mod as
-distributed by Essential and third parties solely to verify that 
-these distributed versions of the Mod are authentic and 
-directly derived from Essential’s published source code for the 
-Mod without modification or tampering. This permission does not 
-constitute any license or transfer of rights in and to the Mod 
-or its underlying code, and you may not copy or fork (except as 
-permitted herein), reproduce, modify, sell, license, distribute,
-commercialize, or otherwise exploit, or create derivative works 
-based upon, the Mod or its underlying code, all of which 
-is reserved by Essential. Essential reserves the right to revoke 
-this permission at any time, for any reason (including, without 
-limitation, in the event of its violation), though any failure 
-or delay by Essential in exercising any of its rights or 
-remedies, in whole or in part, under applicable law or this 
-permission in any instance will not be deemed to be a waiver of 
-those rights or remedies in that instance or any 
-other instance.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-THE MOD IS PROVIDED TO YOU “AS IS” AND WITHOUT ANY
-WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR 
-OTHERWISE, INCLUDING, WITHOUT LIMITATION, ALL WARRANTIES OF 
-MERCHANT ABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, 
-NON-INFRINGEMENT, OR ARISING OUT OF COURSE OF DEALING, COURSE OF 
-PERFORMANCE, USAGE, OR TRADE PRACTICE, ALL OF WHICH ARE 
-HEREBY EXPRESSLY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY 
-LAW. ESSENTIAL MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND 
-THAT THE MOD WILL MEET YOUR REQUIREMENTS, BE COMPATIBLE OR WORK 
-WITH ANY OTHER SOFTWARE, SYSTEMS, OR SERVICES, OPERATE WITHOUT 
-INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS, OR 
-BE ERROR-FREE, OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE 
-CORRECTED.
-
-Please email us at legal@essential.gg if you believe 
-that any distributed version of Essential Mod TM does not match 
-the official version of Essential Mod TM as produced by this 
-repository so that we can resolve any discrepancies and ensure 
-community trust in Essential’s products and services.
-
-                     [End of Agreement]
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
